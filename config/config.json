@@ -5,7 +5,7 @@
   "lang": "main", // If you want to set english please set "main"
 
   "closeTicketCategoryId": "", // The id of the category where a closed ticket will be moved to
-  "openTicketChannelId": "", // The id of the channel where the message to create a ticket will be sent
+  "openTicketChannelId": "1063971598119477310", // The id of the channel where the message to create a ticket will be sent
   
   "ticketTypes": [ // You have a limit of 25 types (the limit of Discord)
     {
